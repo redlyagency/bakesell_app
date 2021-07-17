@@ -14,7 +14,7 @@ Redly in cooperation with Bake'sell, has created an application that allows you 
 ### Browser
 
 ## Category
-### Website
+### Advertisment
 
 ## Designer
 ### Redly Team
